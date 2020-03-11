@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "2.5.0",
+    "chai": "4.2.0",
+    "chai-as-promised": "7.1.1",
+    "chai-bignumber": "3.0.0",
+    "truffle": "5.1.16",
+    "web3": "1.2.6"
+  },
+  "name": "kami_coin",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "chai-bn": "0.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
