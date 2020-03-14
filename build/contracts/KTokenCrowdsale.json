@@ -2481,7 +2481,8 @@
   },
   "networks": {},
   "schemaVersion": "3.0.23",
-  "updatedAt": "2020-03-11T05:50:44.829Z",
+  "updatedAt": "2020-03-14T04:24:16.321Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {
       "buyTokens(address)": {
