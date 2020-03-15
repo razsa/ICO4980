@@ -1,7 +1,7 @@
 # Capped Crowdsale
 
 # Installation
-Navigate to the root root folder and type ```npm install```
+Navigate to the root root folder and type: ```npm install```
 
 # Requirements
 nodejs truffle openzeppelin
